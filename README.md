@@ -1,4 +1,4 @@
-Para executar o chat, siga os passos abaixo:
+<code> Para executar o chat, siga os passos abaixo: </code>
 
 Instale as Ferramentas Necessárias: Certifique-se de ter o Node.js instalado. Se não tiver, você pode baixá-lo em nodejs.org.
 Preparando o Ambiente: Abra a pasta do projeto YOASYS no seu Visual Studio Code (VS Code). Se você ainda não tem o VS Code instalado, faça o download em code.visualstudio.com.

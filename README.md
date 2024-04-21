@@ -8,7 +8,8 @@
 - npm install @Azure
 - npm install dotenv --save
 
-Executando o Chat: Abra o arquivo Yoasys no VS Code e, em seguida, abra o terminal. 
-Digite o comando: node script.js
-Isso iniciará o chat e você verá uma mensagem padrão. Agora você pode fazer suas perguntas!
-Encerrando a Conversa: Quando quiser encerrar a conversa, basta digitar “sair” no terminal.
+<code>Executando o Chat:</code> Abra o arquivo Yoasys no VS Code e, em seguida, abra o terminal. 
+
+<code>Digite o comando:</code> node script.js, isso iniciará o chat e você verá uma mensagem padrão. Aí agora você poderá fazer suas perguntas!
+
+<code>Encerrando a Conversa:</code> Quando quiser encerrar a conversa, basta digitar “sair” no terminal.

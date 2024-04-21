@@ -2,7 +2,7 @@
 
 <code>Instale as Ferramentas Necessárias:</code> Certifique-se de ter o Node.js instalado. Se não tiver, você pode baixá-lo em <a href="nodejs.org">nodejs.org</a>.
 
-<code>Preparando o Ambiente:</code> Abra a pasta do projeto YOASYS no seu Visual Studio Code (VS Code). Se você ainda não tem o VS Code instalado, faça o download em code.visualstudio.com.
+<code>Preparando o Ambiente:</code> Abra a pasta do projeto Yoasys no seu Visual Studio Code (VS Code). Se você ainda não tem o VS Code instalado, faça o download em <a href="code.visualstudio.com">code.visualstudio.com</a>.
 
 <code>Instalando Dependências:</code> No terminal do VS Code, execute os seguintes comandos:
 - npm install @Azure
